@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "reviews": 57,
+        "name": "The Loading Dock",
+        "location": {
+          "city": "Belmont",
+          "address1": "11 Brighton St",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02478"
+        },
+        "metacategory": "restaurants",
+        "id": "the-loading-dock-belmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1575580869268,
+          42.3952140222391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "reviews": 113,
+        "name": "Sabzi",
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "address1": "352 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "sabzi-arlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1484842930151,
+          42.4113393821985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "reviews": 5,
+        "name": "White Hen Pantry",
+        "location": {
+          "city": "Belmont",
+          "country": "US",
+          "address2": "Ste 2",
+          "address3": "",
+          "state": "MA",
+          "address1": "11 Brighton St",
+          "zip_code": "02478"
+        },
+        "metacategory": "grocery",
+        "id": "white-hen-pantry-belmont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1581999,
+          42.39502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "reviews": 202,
+        "name": "Lanes & Games",
+        "location": {
+          "city": "Cambridge",
+          "address1": "195 Concord Tpke",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02140"
+        },
+        "metacategory": "nightlife",
+        "id": "lanes-and-games-cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1486969,
+          42.3992805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "reviews": 14,
+        "name": "Spy Pond",
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "Pond Ln",
+          "zip_code": "02474"
+        },
+        "metacategory": "active",
+        "id": "spy-pond-arlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1494886875153,
+          42.4092626230695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "reviews": 6,
+        "name": "Central Rock Gym",
+        "location": {
+          "city": "Cambridge",
+          "address1": "127 Smith Pl",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "central-rock-gym-cambridge-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1505831624268,
+          42.393863612158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "reviews": 5,
+        "name": "Olympia Fencing Center",
+        "location": {
+          "city": "Cambridge",
+          "country": "US",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "address1": "127 Smith Pl",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "olympia-fencing-center-cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1514893,
+          42.3940506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "reviews": 11,
+        "name": "Wu Dao Kung Fu & Tai Chi",
+        "location": {
+          "city": "Cambridge",
+          "address1": "130 Smith Pl",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "wu-dao-kung-fu-and-tai-chi-cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1501578,
+          42.3935908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 2.5,
+        "reviews": 10,
+        "name": "Gymnastic Academy of Boston",
+        "location": {
+          "city": "Cambridge",
+          "address1": "128 Smith Pl",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02139"
+        },
+        "metacategory": "active",
+        "id": "gymnastic-academy-of-boston-cambridge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1502920091152,
+          42.3935969173908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "rating": 3.5,
+        "reviews": 3,
+        "name": "The Arlington Center",
+        "location": {
+          "city": "Arlington",
+          "address1": "369 Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "the-arlington-center-arlington"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14856,
+          42.41246
+        ]
+      }
+    }
+  ]
+}

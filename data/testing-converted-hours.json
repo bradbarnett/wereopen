@@ -1,0 +1,3435 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1575580869268,
+          42.3952140222391
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 0,
+          "start": "0530",
+          "openMinutes": 330,
+          "closedMinutes": 1380
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 1,
+          "start": "0530",
+          "openMinutes": 1770,
+          "closedMinutes": 2820
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 2,
+          "start": "0530",
+          "openMinutes": 3210,
+          "closedMinutes": 4260
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 3,
+          "start": "0530",
+          "openMinutes": 4650,
+          "closedMinutes": 5700
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 4,
+          "start": "0530",
+          "openMinutes": 6090,
+          "closedMinutes": 7140
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 5,
+          "start": "0530",
+          "openMinutes": 7530,
+          "closedMinutes": 8580
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 6,
+          "start": "0530",
+          "openMinutes": 8970,
+          "closedMinutes": 9960
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "The Loading Dock",
+        "reviews": 57,
+        "location": {
+          "city": "Belmont",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "11 Brighton St",
+          "zip_code": "02478"
+        },
+        "metacategory": "restaurants",
+        "id": "the-loading-dock-belmont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1484842930151,
+          42.4113393821985
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 1,
+          "start": "1200",
+          "openMinutes": 2160,
+          "closedMinutes": 2760
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 2,
+          "start": "1200",
+          "openMinutes": 3600,
+          "closedMinutes": 4200
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 3,
+          "start": "1200",
+          "openMinutes": 5040,
+          "closedMinutes": 5640
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 4,
+          "start": "1200",
+          "openMinutes": 6480,
+          "closedMinutes": 7080
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 5,
+          "start": "1200",
+          "openMinutes": 7920,
+          "closedMinutes": 8520
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 9900
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Sabzi",
+        "reviews": 113,
+        "location": {
+          "city": "Arlington",
+          "address1": "352 Massachusetts Ave",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "sabzi-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1486969,
+          42.3992805
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 1440
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 2880
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 4320
+        },
+        {
+          "is_overnight": true,
+          "end": "0200",
+          "day": 4,
+          "start": "0900",
+          "openMinutes": 6300,
+          "closedMinutes": 5880
+        },
+        {
+          "is_overnight": true,
+          "end": "0200",
+          "day": 5,
+          "start": "1200",
+          "openMinutes": 7920,
+          "closedMinutes": 7320
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 8640
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Lanes & Games",
+        "reviews": 202,
+        "location": {
+          "city": "Cambridge",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "195 Concord Tpke",
+          "zip_code": "02140"
+        },
+        "metacategory": "nightlife",
+        "id": "lanes-and-games-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1505831624268,
+          42.393863612158
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 0,
+          "start": "1100",
+          "openMinutes": 660,
+          "closedMinutes": 1380
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 1,
+          "start": "1100",
+          "openMinutes": 2100,
+          "closedMinutes": 2820
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 2,
+          "start": "1100",
+          "openMinutes": 3540,
+          "closedMinutes": 4260
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 3,
+          "start": "1100",
+          "openMinutes": 4980,
+          "closedMinutes": 5700
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 4,
+          "start": "0600",
+          "openMinutes": 6120,
+          "closedMinutes": 7080
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8340
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 6,
+          "start": "1000",
+          "openMinutes": 9240,
+          "closedMinutes": 9780
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Central Rock Gym",
+        "reviews": 6,
+        "location": {
+          "city": "Cambridge",
+          "country": "US",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "address1": "127 Smith Pl",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "central-rock-gym-cambridge-2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1514893,
+          42.3940506
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 0,
+          "start": "1230",
+          "openMinutes": 750,
+          "closedMinutes": 1260
+        },
+        {
+          "is_overnight": false,
+          "end": "2030",
+          "day": 1,
+          "start": "1230",
+          "openMinutes": 2190,
+          "closedMinutes": 2670
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 2,
+          "start": "1230",
+          "openMinutes": 3630,
+          "closedMinutes": 4140
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "1230",
+          "openMinutes": 5070,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "2030",
+          "day": 4,
+          "start": "1230",
+          "openMinutes": 6510,
+          "closedMinutes": 6990
+        },
+        {
+          "is_overnight": false,
+          "end": "1400",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8040
+        },
+        {
+          "is_overnight": false,
+          "end": "1400",
+          "day": 6,
+          "start": "1000",
+          "openMinutes": 9240,
+          "closedMinutes": 9480
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Olympia Fencing Center",
+        "reviews": 5,
+        "location": {
+          "city": "Cambridge",
+          "address1": "127 Smith Pl",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "olympia-fencing-center-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1501578,
+          42.3935908
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 0,
+          "start": "1400",
+          "openMinutes": 840,
+          "closedMinutes": 1260
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 1,
+          "start": "1400",
+          "openMinutes": 2280,
+          "closedMinutes": 2700
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 2,
+          "start": "1400",
+          "openMinutes": 3720,
+          "closedMinutes": 4140
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "1400",
+          "openMinutes": 5160,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "1930",
+          "day": 4,
+          "start": "1400",
+          "openMinutes": 6600,
+          "closedMinutes": 6930
+        },
+        {
+          "is_overnight": false,
+          "end": "1530",
+          "day": 5,
+          "start": "0830",
+          "openMinutes": 7710,
+          "closedMinutes": 8130
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Wu Dao Kung Fu & Tai Chi",
+        "reviews": 11,
+        "location": {
+          "city": "Cambridge",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "130 Smith Pl",
+          "zip_code": "02138"
+        },
+        "metacategory": "active",
+        "id": "wu-dao-kung-fu-and-tai-chi-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1502920091152,
+          42.3935969173908
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 0,
+          "start": "1200",
+          "openMinutes": 720,
+          "closedMinutes": 780
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 1,
+          "start": "1200",
+          "openMinutes": 2160,
+          "closedMinutes": 2220
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 2,
+          "start": "1200",
+          "openMinutes": 3600,
+          "closedMinutes": 3660
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 3,
+          "start": "1200",
+          "openMinutes": 5040,
+          "closedMinutes": 5100
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 4,
+          "start": "1200",
+          "openMinutes": 6480,
+          "closedMinutes": 6540
+        },
+        {
+          "is_overnight": false,
+          "end": "1230",
+          "day": 6,
+          "start": "1100",
+          "openMinutes": 9300,
+          "closedMinutes": 9390
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 2.5,
+        "name": "Gymnastic Academy of Boston",
+        "reviews": 10,
+        "location": {
+          "city": "Cambridge",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "128 Smith Pl",
+          "zip_code": "02139"
+        },
+        "metacategory": "active",
+        "id": "gymnastic-academy-of-boston-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14856,
+          42.41246
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 0,
+          "start": "0730",
+          "openMinutes": 450,
+          "closedMinutes": 1320
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 1,
+          "start": "0730",
+          "openMinutes": 1890,
+          "closedMinutes": 2760
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 2,
+          "start": "0730",
+          "openMinutes": 3330,
+          "closedMinutes": 4200
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 3,
+          "start": "0730",
+          "openMinutes": 4770,
+          "closedMinutes": 5640
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 4,
+          "start": "0730",
+          "openMinutes": 6210,
+          "closedMinutes": 7080
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 5,
+          "start": "0730",
+          "openMinutes": 7650,
+          "closedMinutes": 8520
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 6,
+          "start": "0730",
+          "openMinutes": 9090,
+          "closedMinutes": 9960
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3.5,
+        "name": "The Arlington Center",
+        "reviews": 3,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "369 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "the-arlington-center-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1517417,
+          42.3933303
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 1,
+          "start": "0930",
+          "openMinutes": 2010,
+          "closedMinutes": 2430
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 2,
+          "start": "0930",
+          "openMinutes": 3450,
+          "closedMinutes": 3870
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 3,
+          "start": "0930",
+          "openMinutes": 4890,
+          "closedMinutes": 5310
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 4,
+          "start": "0930",
+          "openMinutes": 6330,
+          "closedMinutes": 6750
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 5,
+          "start": "0930",
+          "openMinutes": 7770,
+          "closedMinutes": 8190
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Poppy Floral",
+        "reviews": 10,
+        "location": {
+          "city": "Cambridge",
+          "address1": "67 Smith Pl",
+          "address2": "Unit 12",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "poppy-floral-cambridge-3"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1481475830078,
+          42.4110687211012
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 1,
+          "start": "1100",
+          "openMinutes": 2100,
+          "closedMinutes": 2580
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 2,
+          "start": "1100",
+          "openMinutes": 3540,
+          "closedMinutes": 4020
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 3,
+          "start": "1600",
+          "openMinutes": 5280,
+          "closedMinutes": 5460
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 4,
+          "start": "1100",
+          "openMinutes": 6420,
+          "closedMinutes": 6900
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 5,
+          "start": "0900",
+          "openMinutes": 7740,
+          "closedMinutes": 8280
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Terra Nostra Hand Crafted Jewelry",
+        "reviews": 7,
+        "location": {
+          "city": "Arlington",
+          "address1": "348 Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "terra-nostra-hand-crafted-jewelry-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1579742,
+          42.3938942
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 0,
+          "start": "1000",
+          "openMinutes": 600,
+          "closedMinutes": 1080
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "2030",
+          "day": 3,
+          "start": "1000",
+          "openMinutes": 4920,
+          "closedMinutes": 5550
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "1000",
+          "openMinutes": 6360,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8280
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 9660
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Cambridge Quilt Shop",
+        "reviews": 6,
+        "location": {
+          "city": "Cambridge",
+          "address1": "95 Blanchard Rd",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "cambridge-quilt-shop-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1484134,
+          42.4112664
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 1080
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5400
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "0900",
+          "openMinutes": 6300,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Arlington Package Express",
+        "reviews": 5,
+        "location": {
+          "city": "Arlington",
+          "address1": "350 Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "arlington-package-express-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1486218,
+          42.4111593
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1830",
+          "day": 0,
+          "start": "0700",
+          "openMinutes": 420,
+          "closedMinutes": 1110
+        },
+        {
+          "is_overnight": false,
+          "end": "1830",
+          "day": 1,
+          "start": "0700",
+          "openMinutes": 1860,
+          "closedMinutes": 2550
+        },
+        {
+          "is_overnight": false,
+          "end": "1830",
+          "day": 2,
+          "start": "0700",
+          "openMinutes": 3300,
+          "closedMinutes": 3990
+        },
+        {
+          "is_overnight": false,
+          "end": "1830",
+          "day": 3,
+          "start": "0700",
+          "openMinutes": 4740,
+          "closedMinutes": 5430
+        },
+        {
+          "is_overnight": false,
+          "end": "1830",
+          "day": 4,
+          "start": "0700",
+          "openMinutes": 6180,
+          "closedMinutes": 6870
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 5,
+          "start": "0800",
+          "openMinutes": 7680,
+          "closedMinutes": 8220
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Sunny Cleaners",
+        "reviews": 8,
+        "location": {
+          "city": "Arlington",
+          "address1": "344A Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "sunny-cleaners-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1580891907215,
+          42.3938523977995
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2460
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 3900
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 4,
+          "start": "1000",
+          "openMinutes": 6360,
+          "closedMinutes": 6780
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8220
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 3,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "The Knittin' Kitten",
+        "reviews": 10,
+        "location": {
+          "city": "Cambridge",
+          "address1": "93 Blanchard Rd",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "the-knittin-kitten-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148262,
+          42.4100189
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 0,
+          "start": "0700",
+          "openMinutes": 420,
+          "closedMinutes": 1380
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 1,
+          "start": "0700",
+          "openMinutes": 1860,
+          "closedMinutes": 2820
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 2,
+          "start": "0700",
+          "openMinutes": 3300,
+          "closedMinutes": 4260
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 3,
+          "start": "0700",
+          "openMinutes": 4740,
+          "closedMinutes": 5700
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 4,
+          "start": "0700",
+          "openMinutes": 6180,
+          "closedMinutes": 7140
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 5,
+          "start": "0700",
+          "openMinutes": 7620,
+          "closedMinutes": 8580
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 6,
+          "start": "0700",
+          "openMinutes": 9060,
+          "closedMinutes": 10020
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3.5,
+        "name": "Walgreens",
+        "reviews": 13,
+        "location": {
+          "city": "Arlington",
+          "address1": "324 Massachusetts Ave",
+          "address2": null,
+          "address3": null,
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "walgreens-arlington-17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1586298,
+          42.3954398
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1730",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 1050
+        },
+        {
+          "is_overnight": false,
+          "end": "1730",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 2490
+        },
+        {
+          "is_overnight": false,
+          "end": "1730",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 3930
+        },
+        {
+          "is_overnight": false,
+          "end": "1730",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5370
+        },
+        {
+          "is_overnight": false,
+          "end": "1730",
+          "day": 4,
+          "start": "0900",
+          "openMinutes": 6300,
+          "closedMinutes": 6810
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Digital Silver Imaging",
+        "reviews": 6,
+        "location": {
+          "city": "Belmont",
+          "address1": "9 Brighton St",
+          "address2": null,
+          "address3": null,
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02478"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "digital-silver-imaging-belmont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.157365,
+          42.394381
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 0,
+          "start": "1000",
+          "openMinutes": 600,
+          "closedMinutes": 1080
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 3,
+          "start": "1000",
+          "openMinutes": 4920,
+          "closedMinutes": 5520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "1000",
+          "openMinutes": 6360,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "end": "1600",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8160
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3,
+        "name": "Sewing & Vac Center",
+        "reviews": 33,
+        "location": {
+          "city": "Cambridge",
+          "address1": "89 Blanchard Rd",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02138"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "sewing-and-vac-center-cambridge"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1483612060547,
+          42.4108695983887
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 1140
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 2580
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 4020
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5460
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 4,
+          "start": "0900",
+          "openMinutes": 6300,
+          "closedMinutes": 6900
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 5,
+          "start": "0900",
+          "openMinutes": 7740,
+          "closedMinutes": 8220
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3,
+        "name": "Edible Arrangements",
+        "reviews": 8,
+        "location": {
+          "city": "Arlington",
+          "address1": "342 Massachusetts Ave",
+          "address2": null,
+          "address3": null,
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "edible-arrangements-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15243,
+          42.411632
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 0,
+          "start": "0600",
+          "openMinutes": 360,
+          "closedMinutes": 1260
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 1,
+          "start": "0700",
+          "openMinutes": 1860,
+          "closedMinutes": 2700
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 2,
+          "start": "0600",
+          "openMinutes": 3240,
+          "closedMinutes": 4140
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "0700",
+          "openMinutes": 4740,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 4,
+          "start": "0600",
+          "openMinutes": 6120,
+          "closedMinutes": 7020
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 5,
+          "start": "0700",
+          "openMinutes": 7620,
+          "closedMinutes": 8220
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3,
+        "name": "Arlington Boys & Girls Club",
+        "reviews": 5,
+        "location": {
+          "city": "Arlington",
+          "address1": "60 Pond Ln",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "arlington-boys-and-girls-club-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15882,
+          42.39403
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 0,
+          "start": "0730",
+          "openMinutes": 450,
+          "closedMinutes": 1080
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "0730",
+          "openMinutes": 1890,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "0730",
+          "openMinutes": 3330,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 3,
+          "start": "0730",
+          "openMinutes": 4770,
+          "closedMinutes": 5400
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "0730",
+          "openMinutes": 6210,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "end": "1600",
+          "day": 5,
+          "start": "0800",
+          "openMinutes": 7680,
+          "closedMinutes": 8160
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3.5,
+        "name": "Turf Equipment Plus",
+        "reviews": 7,
+        "location": {
+          "city": "Belmont",
+          "address1": "280 Blanchard Rd",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02478"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "turf-equipment-plus-belmont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1479864,
+          42.4088905
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 0,
+          "start": "0730",
+          "openMinutes": 450,
+          "closedMinutes": 1080
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "0730",
+          "openMinutes": 1890,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "0730",
+          "openMinutes": 3330,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 3,
+          "start": "0730",
+          "openMinutes": 4770,
+          "closedMinutes": 5400
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "0730",
+          "openMinutes": 6210,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Rainbow Dreams Family Daycare",
+        "reviews": 2,
+        "location": {
+          "city": "Arlington",
+          "address1": "22 Belknap St",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "localservices,shopping",
+        "id": "rainbow-dreams-family-daycare-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1482,
+          42.41194
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2030",
+          "day": 0,
+          "start": "0800",
+          "openMinutes": 480,
+          "closedMinutes": 1230
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 1,
+          "start": "0800",
+          "openMinutes": 1920,
+          "closedMinutes": 2700
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 2,
+          "start": "0800",
+          "openMinutes": 3360,
+          "closedMinutes": 4140
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "0800",
+          "openMinutes": 4800,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 4,
+          "start": "0800",
+          "openMinutes": 6240,
+          "closedMinutes": 6840
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Pravaha Energy Healing & Insight",
+        "reviews": 8,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "361 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "pravaha-energy-healing-and-insight-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1488382518291,
+          42.4121893197298
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 3,
+          "start": "1830",
+          "openMinutes": 5430,
+          "closedMinutes": 5610
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 4,
+          "start": "1300",
+          "openMinutes": 6540,
+          "closedMinutes": 6750
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 1,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 2,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Zenergy Massage & Reiki",
+        "reviews": 2,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "Ste 304",
+          "address3": "",
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "zenergy-massage-and-reiki-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1478652954102,
+          42.4113388061523
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1400",
+          "day": 0,
+          "start": "1000",
+          "openMinutes": 600,
+          "closedMinutes": 840
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2580
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 4020
+        },
+        {
+          "is_overnight": false,
+          "end": "1400",
+          "day": 4,
+          "start": "0800",
+          "openMinutes": 6240,
+          "closedMinutes": 6600
+        },
+        {
+          "is_overnight": false,
+          "day": 3,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Arlington Dental Care",
+        "reviews": 5,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "347 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "arlington-dental-care-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.147697,
+          42.411106
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 0,
+          "start": "1000",
+          "openMinutes": 600,
+          "closedMinutes": 1260
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2700
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 4140
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "1000",
+          "openMinutes": 4920,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 4,
+          "start": "1000",
+          "openMinutes": 6360,
+          "closedMinutes": 7020
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 5,
+          "start": "1200",
+          "openMinutes": 7920,
+          "closedMinutes": 8340
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Column Health",
+        "reviews": 1,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "address1": "339 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "column-health-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148819,
+          42.4119606
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 5,
+          "start": "0930",
+          "openMinutes": 7770,
+          "closedMinutes": 8220
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 1,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 2,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 3,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 4,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Linda Kang, LMT",
+        "reviews": 2,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "Ste 303",
+          "address3": "",
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "linda-kang-lmt-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1490097045898,
+          42.4118347167969
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 1,
+          "start": "0800",
+          "openMinutes": 1920,
+          "closedMinutes": 2220
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "1400",
+          "openMinutes": 2280,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 2,
+          "start": "0800",
+          "openMinutes": 3360,
+          "closedMinutes": 3660
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 2,
+          "start": "1400",
+          "openMinutes": 3720,
+          "closedMinutes": 3960
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 3,
+          "start": "0800",
+          "openMinutes": 4800,
+          "closedMinutes": 5100
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 3,
+          "start": "1400",
+          "openMinutes": 5160,
+          "closedMinutes": 5400
+        },
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 4,
+          "start": "0800",
+          "openMinutes": 6240,
+          "closedMinutes": 6660
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Thomas M Leonard, DMD",
+        "reviews": 2,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "Ste 301",
+          "address3": "",
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "thomas-m-leonard-dmd-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1521354121982,
+          42.4048690620313
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 0,
+          "start": "0000",
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 1,
+          "start": "0000",
+          "openMinutes": 1440,
+          "closedMinutes": 1440
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 2,
+          "start": "0000",
+          "openMinutes": 2880,
+          "closedMinutes": 2880
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 3,
+          "start": "0000",
+          "openMinutes": 4320,
+          "closedMinutes": 4320
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 4,
+          "start": "0000",
+          "openMinutes": 5760,
+          "closedMinutes": 5760
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 5,
+          "start": "0000",
+          "openMinutes": 7200,
+          "closedMinutes": 7200
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 6,
+          "start": "0000",
+          "openMinutes": 8640,
+          "closedMinutes": 8640
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 1,
+        "name": "Park Avenue Health Center",
+        "reviews": 1,
+        "location": {
+          "city": "Arlington",
+          "address1": "146 Park Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02476"
+        },
+        "metacategory": "health",
+        "id": "park-avenue-health-center-arlington-2"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.15892,
+          42.39517
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 0,
+          "start": "1100",
+          "openMinutes": 660,
+          "closedMinutes": 1140
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 2520
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 2,
+          "start": "1100",
+          "openMinutes": 3540,
+          "closedMinutes": 4020
+        },
+        {
+          "is_overnight": false,
+          "end": "1800",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5400
+        },
+        {
+          "is_overnight": false,
+          "day": 4,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Circle Chiropractic",
+        "reviews": 1,
+        "location": {
+          "city": "Belmont",
+          "address1": "26 Brighton St",
+          "address2": "Ste 300",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02478"
+        },
+        "metacategory": "health",
+        "id": "circle-chiropractic-belmont"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1490097045898,
+          42.4118347167969
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 1,
+          "start": "0830",
+          "openMinutes": 1950,
+          "closedMinutes": 2460
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 2,
+          "start": "0830",
+          "openMinutes": 3390,
+          "closedMinutes": 3900
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 3,
+          "start": "0830",
+          "openMinutes": 4830,
+          "closedMinutes": 5340
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 4,
+          "start": "0830",
+          "openMinutes": 6270,
+          "closedMinutes": 6540
+        },
+        {
+          "is_overnight": false,
+          "end": "1300",
+          "day": 5,
+          "start": "0830",
+          "openMinutes": 7710,
+          "closedMinutes": 7980
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Arlington Acupuncture Associates",
+        "reviews": 1,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": null,
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "arlington-acupuncture-associates-arlington-3"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1490097045898,
+          42.4118347167969
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 0,
+          "start": "0830",
+          "openMinutes": 510,
+          "closedMinutes": 990
+        },
+        {
+          "is_overnight": false,
+          "end": "1200",
+          "day": 1,
+          "start": "0830",
+          "openMinutes": 1950,
+          "closedMinutes": 2160
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 2,
+          "start": "0830",
+          "openMinutes": 3390,
+          "closedMinutes": 3870
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 3,
+          "start": "0830",
+          "openMinutes": 4830,
+          "closedMinutes": 5310
+        },
+        {
+          "is_overnight": false,
+          "end": "1630",
+          "day": 4,
+          "start": "0830",
+          "openMinutes": 6270,
+          "closedMinutes": 6750
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Spy Pond Pediatrics/Rajee K Joyce, MD",
+        "reviews": 2,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "Ste 101B",
+          "address3": null,
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "spy-pond-pediatrics-rajee-k-joyce-md-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.148819,
+          42.4119606
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 1020
+        },
+        {
+          "is_overnight": false,
+          "end": "1700",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 3900
+        },
+        {
+          "is_overnight": false,
+          "end": "1400",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5160
+        },
+        {
+          "is_overnight": false,
+          "end": "1600",
+          "day": 4,
+          "start": "1100",
+          "openMinutes": 6420,
+          "closedMinutes": 6720
+        },
+        {
+          "is_overnight": false,
+          "day": 1,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 5,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Charlie Smigelski, RD",
+        "reviews": 1,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "Ste 304",
+          "address3": "",
+          "state": "MA",
+          "address1": "366 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "health",
+        "id": "charlie-smigelski-rd-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14131,
+          42.40484
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 1,
+          "start": "1100",
+          "openMinutes": 2100,
+          "closedMinutes": 2640
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 2,
+          "start": "1100",
+          "openMinutes": 3540,
+          "closedMinutes": 4080
+        },
+        {
+          "is_overnight": false,
+          "end": "2100",
+          "day": 3,
+          "start": "1100",
+          "openMinutes": 4980,
+          "closedMinutes": 5580
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 4,
+          "start": "1100",
+          "openMinutes": 6420,
+          "closedMinutes": 7080
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 5,
+          "start": "1100",
+          "openMinutes": 7860,
+          "closedMinutes": 8520
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 6,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Sugo Cucina Italiana",
+        "reviews": 45,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "address1": "162 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "sugo-cucina-italiana-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1444106,
+          42.4120756
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 2,
+          "start": "1200",
+          "openMinutes": 3600,
+          "closedMinutes": 4080
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 3,
+          "start": "1200",
+          "openMinutes": 5040,
+          "closedMinutes": 5520
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 4,
+          "start": "1200",
+          "openMinutes": 6480,
+          "closedMinutes": 6960
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 5,
+          "start": "1200",
+          "openMinutes": 7920,
+          "closedMinutes": 8400
+        },
+        {
+          "is_overnight": false,
+          "end": "2000",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 9840
+        },
+        {
+          "is_overnight": false,
+          "day": 0,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "day": 1,
+          "end": 0,
+          "start": 0,
+          "openMinutes": 0,
+          "closedMinutes": 0
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 5,
+        "name": "Commune Kitchen",
+        "reviews": 28,
+        "location": {
+          "city": "Arlington",
+          "address1": "203A Broadway",
+          "address2": "",
+          "address3": null,
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "commune-kitchen-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1414219932752,
+          42.4048527156341
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 0,
+          "start": "1130",
+          "openMinutes": 690,
+          "closedMinutes": 1320
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 1,
+          "start": "1130",
+          "openMinutes": 2130,
+          "closedMinutes": 2760
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 2,
+          "start": "1130",
+          "openMinutes": 3570,
+          "closedMinutes": 4200
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 3,
+          "start": "1130",
+          "openMinutes": 5010,
+          "closedMinutes": 5640
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 4,
+          "start": "1130",
+          "openMinutes": 6450,
+          "closedMinutes": 7140
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 5,
+          "start": "1200",
+          "openMinutes": 7920,
+          "closedMinutes": 8580
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 9960
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Zhu",
+        "reviews": 70,
+        "location": {
+          "city": "Arlington",
+          "country": "US",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "address1": "166 Massachusetts Ave",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "zhu-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.140548,
+          42.404117
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 0,
+          "start": "1130",
+          "openMinutes": 690,
+          "closedMinutes": 1320
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 1,
+          "start": "1130",
+          "openMinutes": 2130,
+          "closedMinutes": 2760
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 2,
+          "start": "1130",
+          "openMinutes": 3570,
+          "closedMinutes": 4200
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 3,
+          "start": "1130",
+          "openMinutes": 5010,
+          "closedMinutes": 5640
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 4,
+          "start": "1130",
+          "openMinutes": 6450,
+          "closedMinutes": 7140
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 5,
+          "start": "1130",
+          "openMinutes": 7890,
+          "closedMinutes": 8580
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 6,
+          "start": "1130",
+          "openMinutes": 9330,
+          "closedMinutes": 9960
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Za",
+        "reviews": 307,
+        "location": {
+          "city": "Arlington",
+          "address1": "138 Massachusetts Ave",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "za-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1422554243378,
+          42.4055259314122
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 0,
+          "start": "1130",
+          "openMinutes": 690,
+          "closedMinutes": 900
+        },
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 0,
+          "start": "1630",
+          "openMinutes": 990,
+          "closedMinutes": 1290
+        },
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 1,
+          "start": "1130",
+          "openMinutes": 2130,
+          "closedMinutes": 2340
+        },
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 1,
+          "start": "1630",
+          "openMinutes": 2430,
+          "closedMinutes": 2730
+        },
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 2,
+          "start": "1130",
+          "openMinutes": 3570,
+          "closedMinutes": 3780
+        },
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 2,
+          "start": "1630",
+          "openMinutes": 3870,
+          "closedMinutes": 4170
+        },
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 3,
+          "start": "1130",
+          "openMinutes": 5010,
+          "closedMinutes": 5220
+        },
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 3,
+          "start": "1630",
+          "openMinutes": 5310,
+          "closedMinutes": 5610
+        },
+        {
+          "is_overnight": false,
+          "end": "1500",
+          "day": 4,
+          "start": "1130",
+          "openMinutes": 6450,
+          "closedMinutes": 6660
+        },
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 4,
+          "start": "1630",
+          "openMinutes": 6750,
+          "closedMinutes": 7110
+        },
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 5,
+          "start": "1130",
+          "openMinutes": 7890,
+          "closedMinutes": 8550
+        },
+        {
+          "is_overnight": false,
+          "end": "2130",
+          "day": 6,
+          "start": "1200",
+          "openMinutes": 9360,
+          "closedMinutes": 9930
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4,
+        "name": "Little Q Hot Pot",
+        "reviews": 173,
+        "location": {
+          "city": "Arlington",
+          "address1": "196 Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "little-q-hot-pot-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.1411091,
+          42.4050584
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 0,
+          "start": "0900",
+          "openMinutes": 540,
+          "closedMinutes": 1140
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 1,
+          "start": "0900",
+          "openMinutes": 1980,
+          "closedMinutes": 2580
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 2,
+          "start": "0900",
+          "openMinutes": 3420,
+          "closedMinutes": 4020
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 3,
+          "start": "0900",
+          "openMinutes": 4860,
+          "closedMinutes": 5460
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 4,
+          "start": "0900",
+          "openMinutes": 6300,
+          "closedMinutes": 6900
+        },
+        {
+          "is_overnight": false,
+          "end": "1900",
+          "day": 5,
+          "start": "0900",
+          "openMinutes": 7740,
+          "closedMinutes": 8340
+        },
+        {
+          "is_overnight": false,
+          "end": "1600",
+          "day": 6,
+          "start": "0900",
+          "openMinutes": 9180,
+          "closedMinutes": 9600
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 4.5,
+        "name": "Anthony's East Side Deli",
+        "reviews": 35,
+        "location": {
+          "city": "Arlington",
+          "address1": "159 Massachusetts Ave",
+          "address2": "",
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "restaurants",
+        "id": "anthonys-east-side-deli-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.136934,
+          42.4016419
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 0,
+          "start": "1630",
+          "openMinutes": 990,
+          "closedMinutes": 0
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 1,
+          "start": "1630",
+          "openMinutes": 2430,
+          "closedMinutes": 1440
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 2,
+          "start": "1200",
+          "openMinutes": 3600,
+          "closedMinutes": 2880
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 3,
+          "start": "1200",
+          "openMinutes": 5040,
+          "closedMinutes": 4320
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 4,
+          "start": "1200",
+          "openMinutes": 6480,
+          "closedMinutes": 5760
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 5,
+          "start": "1100",
+          "openMinutes": 7860,
+          "closedMinutes": 7200
+        },
+        {
+          "is_overnight": false,
+          "end": "0000",
+          "day": 6,
+          "start": "1100",
+          "openMinutes": 9300,
+          "closedMinutes": 8640
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3,
+        "name": "Menotomy Grill and Tavern",
+        "reviews": 229,
+        "location": {
+          "city": "Arlington",
+          "address1": "25 Massachusetts Ave",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02474"
+        },
+        "metacategory": "nightlife",
+        "id": "menotomy-grill-and-tavern-arlington"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.14395,
+          42.40676
+        ]
+      },
+      "hours": [
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 0,
+          "start": "1000",
+          "openMinutes": 600,
+          "closedMinutes": 1350
+        },
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 1,
+          "start": "1000",
+          "openMinutes": 2040,
+          "closedMinutes": 2790
+        },
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 2,
+          "start": "1000",
+          "openMinutes": 3480,
+          "closedMinutes": 4230
+        },
+        {
+          "is_overnight": false,
+          "end": "2230",
+          "day": 3,
+          "start": "1000",
+          "openMinutes": 4920,
+          "closedMinutes": 5670
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 4,
+          "start": "1000",
+          "openMinutes": 6360,
+          "closedMinutes": 7140
+        },
+        {
+          "is_overnight": false,
+          "end": "2300",
+          "day": 5,
+          "start": "1000",
+          "openMinutes": 7800,
+          "closedMinutes": 8580
+        },
+        {
+          "is_overnight": false,
+          "end": "2200",
+          "day": 6,
+          "start": "1000",
+          "openMinutes": 9240,
+          "closedMinutes": 9960
+        }
+      ],
+      "type": "Feature",
+      "properties": {
+        "rating": 3.5,
+        "name": "Sabatino's Italian Kitchen",
+        "reviews": 142,
+        "location": {
+          "city": "Arlington",
+          "address1": "242 Massachusetts Ave",
+          "address2": null,
+          "address3": "",
+          "state": "MA",
+          "country": "US",
+          "zip_code": "02476"
+        },
+        "metacategory": "restaurants",
+        "id": "sabatinos-italian-kitchen-arlington"
+      }
+    }
+  ]
+}

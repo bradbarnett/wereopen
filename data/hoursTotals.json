@@ -1,0 +1,1152 @@
+{
+  "features": [
+    {
+      "date": "Mon Jan 16 2017 00:30:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Mon Jan 16 2017 01:00:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Mon Jan 16 2017 01:30:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Mon Jan 16 2017 02:00:00 GMT-0500 (EST)",
+      "val": 16
+    },
+    {
+      "date": "Mon Jan 16 2017 02:30:00 GMT-0500 (EST)",
+      "val": 16
+    },
+    {
+      "date": "Mon Jan 16 2017 03:00:00 GMT-0500 (EST)",
+      "val": 16
+    },
+    {
+      "date": "Mon Jan 16 2017 03:30:00 GMT-0500 (EST)",
+      "val": 16
+    },
+    {
+      "date": "Mon Jan 16 2017 04:00:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Mon Jan 16 2017 04:30:00 GMT-0500 (EST)",
+      "val": 21
+    },
+    {
+      "date": "Mon Jan 16 2017 05:00:00 GMT-0500 (EST)",
+      "val": 27
+    },
+    {
+      "date": "Mon Jan 16 2017 05:30:00 GMT-0500 (EST)",
+      "val": 106
+    },
+    {
+      "date": "Mon Jan 16 2017 06:00:00 GMT-0500 (EST)",
+      "val": 184
+    },
+    {
+      "date": "Mon Jan 16 2017 06:30:00 GMT-0500 (EST)",
+      "val": 547
+    },
+    {
+      "date": "Mon Jan 16 2017 07:00:00 GMT-0500 (EST)",
+      "val": 688
+    },
+    {
+      "date": "Mon Jan 16 2017 07:30:00 GMT-0500 (EST)",
+      "val": 1494
+    },
+    {
+      "date": "Mon Jan 16 2017 08:00:00 GMT-0500 (EST)",
+      "val": 1729
+    },
+    {
+      "date": "Mon Jan 16 2017 08:30:00 GMT-0500 (EST)",
+      "val": 2793
+    },
+    {
+      "date": "Mon Jan 16 2017 09:00:00 GMT-0500 (EST)",
+      "val": 3141
+    },
+    {
+      "date": "Mon Jan 16 2017 09:30:00 GMT-0500 (EST)",
+      "val": 4521
+    },
+    {
+      "date": "Mon Jan 16 2017 10:00:00 GMT-0500 (EST)",
+      "val": 4675
+    },
+    {
+      "date": "Mon Jan 16 2017 10:30:00 GMT-0500 (EST)",
+      "val": 5757
+    },
+    {
+      "date": "Mon Jan 16 2017 11:00:00 GMT-0500 (EST)",
+      "val": 5865
+    },
+    {
+      "date": "Mon Jan 16 2017 11:30:00 GMT-0500 (EST)",
+      "val": 6638
+    },
+    {
+      "date": "Mon Jan 16 2017 12:00:00 GMT-0500 (EST)",
+      "val": 6946
+    },
+    {
+      "date": "Mon Jan 16 2017 12:30:00 GMT-0500 (EST)",
+      "val": 7103
+    },
+    {
+      "date": "Mon Jan 16 2017 13:00:00 GMT-0500 (EST)",
+      "val": 7095
+    },
+    {
+      "date": "Mon Jan 16 2017 13:30:00 GMT-0500 (EST)",
+      "val": 7115
+    },
+    {
+      "date": "Mon Jan 16 2017 14:00:00 GMT-0500 (EST)",
+      "val": 7061
+    },
+    {
+      "date": "Mon Jan 16 2017 14:30:00 GMT-0500 (EST)",
+      "val": 7043
+    },
+    {
+      "date": "Mon Jan 16 2017 15:00:00 GMT-0500 (EST)",
+      "val": 6894
+    },
+    {
+      "date": "Mon Jan 16 2017 15:30:00 GMT-0500 (EST)",
+      "val": 6905
+    },
+    {
+      "date": "Mon Jan 16 2017 16:00:00 GMT-0500 (EST)",
+      "val": 6705
+    },
+    {
+      "date": "Mon Jan 16 2017 16:30:00 GMT-0500 (EST)",
+      "val": 6672
+    },
+    {
+      "date": "Mon Jan 16 2017 17:00:00 GMT-0500 (EST)",
+      "val": 5505
+    },
+    {
+      "date": "Mon Jan 16 2017 17:30:00 GMT-0500 (EST)",
+      "val": 5396
+    },
+    {
+      "date": "Mon Jan 16 2017 18:00:00 GMT-0500 (EST)",
+      "val": 4465
+    },
+    {
+      "date": "Mon Jan 16 2017 18:30:00 GMT-0500 (EST)",
+      "val": 4366
+    },
+    {
+      "date": "Mon Jan 16 2017 19:00:00 GMT-0500 (EST)",
+      "val": 3445
+    },
+    {
+      "date": "Mon Jan 16 2017 19:30:00 GMT-0500 (EST)",
+      "val": 3367
+    },
+    {
+      "date": "Mon Jan 16 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2650
+    },
+    {
+      "date": "Mon Jan 16 2017 20:30:00 GMT-0500 (EST)",
+      "val": 2557
+    },
+    {
+      "date": "Mon Jan 16 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1733
+    },
+    {
+      "date": "Mon Jan 16 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1598
+    },
+    {
+      "date": "Mon Jan 16 2017 22:00:00 GMT-0500 (EST)",
+      "val": 648
+    },
+    {
+      "date": "Mon Jan 16 2017 22:30:00 GMT-0500 (EST)",
+      "val": 517
+    },
+    {
+      "date": "Mon Jan 16 2017 23:00:00 GMT-0500 (EST)",
+      "val": 52
+    },
+    {
+      "date": "Mon Jan 16 2017 23:30:00 GMT-0500 (EST)",
+      "val": 6
+    },
+    {
+      "date": "Tue Jan 17 2017 00:00:00 GMT-0500 (EST)",
+      "val": 0
+    },
+    {
+      "date": "Tue Jan 17 2017 00:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Tue Jan 17 2017 01:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Tue Jan 17 2017 01:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Tue Jan 17 2017 02:00:00 GMT-0500 (EST)",
+      "val": 18
+    },
+    {
+      "date": "Tue Jan 17 2017 02:30:00 GMT-0500 (EST)",
+      "val": 18
+    },
+    {
+      "date": "Tue Jan 17 2017 03:00:00 GMT-0500 (EST)",
+      "val": 18
+    },
+    {
+      "date": "Tue Jan 17 2017 03:30:00 GMT-0500 (EST)",
+      "val": 18
+    },
+    {
+      "date": "Tue Jan 17 2017 04:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Tue Jan 17 2017 04:30:00 GMT-0500 (EST)",
+      "val": 23
+    },
+    {
+      "date": "Tue Jan 17 2017 05:00:00 GMT-0500 (EST)",
+      "val": 28
+    },
+    {
+      "date": "Tue Jan 17 2017 05:30:00 GMT-0500 (EST)",
+      "val": 106
+    },
+    {
+      "date": "Tue Jan 17 2017 06:00:00 GMT-0500 (EST)",
+      "val": 186
+    },
+    {
+      "date": "Tue Jan 17 2017 06:30:00 GMT-0500 (EST)",
+      "val": 547
+    },
+    {
+      "date": "Tue Jan 17 2017 07:00:00 GMT-0500 (EST)",
+      "val": 694
+    },
+    {
+      "date": "Tue Jan 17 2017 07:30:00 GMT-0500 (EST)",
+      "val": 1515
+    },
+    {
+      "date": "Tue Jan 17 2017 08:00:00 GMT-0500 (EST)",
+      "val": 1761
+    },
+    {
+      "date": "Tue Jan 17 2017 08:30:00 GMT-0500 (EST)",
+      "val": 2846
+    },
+    {
+      "date": "Tue Jan 17 2017 09:00:00 GMT-0500 (EST)",
+      "val": 3187
+    },
+    {
+      "date": "Tue Jan 17 2017 09:30:00 GMT-0500 (EST)",
+      "val": 4550
+    },
+    {
+      "date": "Tue Jan 17 2017 10:00:00 GMT-0500 (EST)",
+      "val": 4707
+    },
+    {
+      "date": "Tue Jan 17 2017 10:30:00 GMT-0500 (EST)",
+      "val": 5870
+    },
+    {
+      "date": "Tue Jan 17 2017 11:00:00 GMT-0500 (EST)",
+      "val": 5994
+    },
+    {
+      "date": "Tue Jan 17 2017 11:30:00 GMT-0500 (EST)",
+      "val": 6855
+    },
+    {
+      "date": "Tue Jan 17 2017 12:00:00 GMT-0500 (EST)",
+      "val": 7181
+    },
+    {
+      "date": "Tue Jan 17 2017 12:30:00 GMT-0500 (EST)",
+      "val": 7380
+    },
+    {
+      "date": "Tue Jan 17 2017 13:00:00 GMT-0500 (EST)",
+      "val": 7371
+    },
+    {
+      "date": "Tue Jan 17 2017 13:30:00 GMT-0500 (EST)",
+      "val": 7395
+    },
+    {
+      "date": "Tue Jan 17 2017 14:00:00 GMT-0500 (EST)",
+      "val": 7342
+    },
+    {
+      "date": "Tue Jan 17 2017 14:30:00 GMT-0500 (EST)",
+      "val": 7322
+    },
+    {
+      "date": "Tue Jan 17 2017 15:00:00 GMT-0500 (EST)",
+      "val": 7173
+    },
+    {
+      "date": "Tue Jan 17 2017 15:30:00 GMT-0500 (EST)",
+      "val": 7180
+    },
+    {
+      "date": "Tue Jan 17 2017 16:00:00 GMT-0500 (EST)",
+      "val": 6964
+    },
+    {
+      "date": "Tue Jan 17 2017 16:30:00 GMT-0500 (EST)",
+      "val": 6927
+    },
+    {
+      "date": "Tue Jan 17 2017 17:00:00 GMT-0500 (EST)",
+      "val": 5749
+    },
+    {
+      "date": "Tue Jan 17 2017 17:30:00 GMT-0500 (EST)",
+      "val": 5663
+    },
+    {
+      "date": "Tue Jan 17 2017 18:00:00 GMT-0500 (EST)",
+      "val": 4635
+    },
+    {
+      "date": "Tue Jan 17 2017 18:30:00 GMT-0500 (EST)",
+      "val": 4536
+    },
+    {
+      "date": "Tue Jan 17 2017 19:00:00 GMT-0500 (EST)",
+      "val": 3565
+    },
+    {
+      "date": "Tue Jan 17 2017 19:30:00 GMT-0500 (EST)",
+      "val": 3484
+    },
+    {
+      "date": "Tue Jan 17 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2725
+    },
+    {
+      "date": "Tue Jan 17 2017 20:30:00 GMT-0500 (EST)",
+      "val": 2636
+    },
+    {
+      "date": "Tue Jan 17 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1800
+    },
+    {
+      "date": "Tue Jan 17 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1664
+    },
+    {
+      "date": "Tue Jan 17 2017 22:00:00 GMT-0500 (EST)",
+      "val": 663
+    },
+    {
+      "date": "Tue Jan 17 2017 22:30:00 GMT-0500 (EST)",
+      "val": 524
+    },
+    {
+      "date": "Tue Jan 17 2017 23:00:00 GMT-0500 (EST)",
+      "val": 52
+    },
+    {
+      "date": "Tue Jan 17 2017 23:30:00 GMT-0500 (EST)",
+      "val": 6
+    },
+    {
+      "date": "Wed Jan 18 2017 00:00:00 GMT-0500 (EST)",
+      "val": 0
+    },
+    {
+      "date": "Wed Jan 18 2017 00:30:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Wed Jan 18 2017 01:00:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Wed Jan 18 2017 01:30:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Wed Jan 18 2017 02:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Wed Jan 18 2017 02:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Wed Jan 18 2017 03:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Wed Jan 18 2017 03:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Wed Jan 18 2017 04:00:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Wed Jan 18 2017 04:30:00 GMT-0500 (EST)",
+      "val": 24
+    },
+    {
+      "date": "Wed Jan 18 2017 05:00:00 GMT-0500 (EST)",
+      "val": 28
+    },
+    {
+      "date": "Wed Jan 18 2017 05:30:00 GMT-0500 (EST)",
+      "val": 107
+    },
+    {
+      "date": "Wed Jan 18 2017 06:00:00 GMT-0500 (EST)",
+      "val": 186
+    },
+    {
+      "date": "Wed Jan 18 2017 06:30:00 GMT-0500 (EST)",
+      "val": 553
+    },
+    {
+      "date": "Wed Jan 18 2017 07:00:00 GMT-0500 (EST)",
+      "val": 695
+    },
+    {
+      "date": "Wed Jan 18 2017 07:30:00 GMT-0500 (EST)",
+      "val": 1522
+    },
+    {
+      "date": "Wed Jan 18 2017 08:00:00 GMT-0500 (EST)",
+      "val": 1769
+    },
+    {
+      "date": "Wed Jan 18 2017 08:30:00 GMT-0500 (EST)",
+      "val": 2838
+    },
+    {
+      "date": "Wed Jan 18 2017 09:00:00 GMT-0500 (EST)",
+      "val": 3199
+    },
+    {
+      "date": "Wed Jan 18 2017 09:30:00 GMT-0500 (EST)",
+      "val": 4541
+    },
+    {
+      "date": "Wed Jan 18 2017 10:00:00 GMT-0500 (EST)",
+      "val": 4698
+    },
+    {
+      "date": "Wed Jan 18 2017 10:30:00 GMT-0500 (EST)",
+      "val": 5880
+    },
+    {
+      "date": "Wed Jan 18 2017 11:00:00 GMT-0500 (EST)",
+      "val": 5999
+    },
+    {
+      "date": "Wed Jan 18 2017 11:30:00 GMT-0500 (EST)",
+      "val": 6893
+    },
+    {
+      "date": "Wed Jan 18 2017 12:00:00 GMT-0500 (EST)",
+      "val": 7210
+    },
+    {
+      "date": "Wed Jan 18 2017 12:30:00 GMT-0500 (EST)",
+      "val": 7414
+    },
+    {
+      "date": "Wed Jan 18 2017 13:00:00 GMT-0500 (EST)",
+      "val": 7403
+    },
+    {
+      "date": "Wed Jan 18 2017 13:30:00 GMT-0500 (EST)",
+      "val": 7428
+    },
+    {
+      "date": "Wed Jan 18 2017 14:00:00 GMT-0500 (EST)",
+      "val": 7371
+    },
+    {
+      "date": "Wed Jan 18 2017 14:30:00 GMT-0500 (EST)",
+      "val": 7348
+    },
+    {
+      "date": "Wed Jan 18 2017 15:00:00 GMT-0500 (EST)",
+      "val": 7197
+    },
+    {
+      "date": "Wed Jan 18 2017 15:30:00 GMT-0500 (EST)",
+      "val": 7200
+    },
+    {
+      "date": "Wed Jan 18 2017 16:00:00 GMT-0500 (EST)",
+      "val": 6999
+    },
+    {
+      "date": "Wed Jan 18 2017 16:30:00 GMT-0500 (EST)",
+      "val": 6962
+    },
+    {
+      "date": "Wed Jan 18 2017 17:00:00 GMT-0500 (EST)",
+      "val": 5794
+    },
+    {
+      "date": "Wed Jan 18 2017 17:30:00 GMT-0500 (EST)",
+      "val": 5698
+    },
+    {
+      "date": "Wed Jan 18 2017 18:00:00 GMT-0500 (EST)",
+      "val": 4664
+    },
+    {
+      "date": "Wed Jan 18 2017 18:30:00 GMT-0500 (EST)",
+      "val": 4561
+    },
+    {
+      "date": "Wed Jan 18 2017 19:00:00 GMT-0500 (EST)",
+      "val": 3564
+    },
+    {
+      "date": "Wed Jan 18 2017 19:30:00 GMT-0500 (EST)",
+      "val": 3497
+    },
+    {
+      "date": "Wed Jan 18 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2742
+    },
+    {
+      "date": "Wed Jan 18 2017 20:30:00 GMT-0500 (EST)",
+      "val": 2646
+    },
+    {
+      "date": "Wed Jan 18 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1809
+    },
+    {
+      "date": "Wed Jan 18 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1668
+    },
+    {
+      "date": "Wed Jan 18 2017 22:00:00 GMT-0500 (EST)",
+      "val": 662
+    },
+    {
+      "date": "Wed Jan 18 2017 22:30:00 GMT-0500 (EST)",
+      "val": 528
+    },
+    {
+      "date": "Wed Jan 18 2017 23:00:00 GMT-0500 (EST)",
+      "val": 50
+    },
+    {
+      "date": "Wed Jan 18 2017 23:30:00 GMT-0500 (EST)",
+      "val": 6
+    },
+    {
+      "date": "Thu Jan 19 2017 00:00:00 GMT-0500 (EST)",
+      "val": 0
+    },
+    {
+      "date": "Thu Jan 19 2017 00:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 01:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 01:30:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Thu Jan 19 2017 02:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 02:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 03:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 03:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Thu Jan 19 2017 04:00:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Thu Jan 19 2017 04:30:00 GMT-0500 (EST)",
+      "val": 24
+    },
+    {
+      "date": "Thu Jan 19 2017 05:00:00 GMT-0500 (EST)",
+      "val": 28
+    },
+    {
+      "date": "Thu Jan 19 2017 05:30:00 GMT-0500 (EST)",
+      "val": 106
+    },
+    {
+      "date": "Thu Jan 19 2017 06:00:00 GMT-0500 (EST)",
+      "val": 184
+    },
+    {
+      "date": "Thu Jan 19 2017 06:30:00 GMT-0500 (EST)",
+      "val": 529
+    },
+    {
+      "date": "Thu Jan 19 2017 07:00:00 GMT-0500 (EST)",
+      "val": 667
+    },
+    {
+      "date": "Thu Jan 19 2017 07:30:00 GMT-0500 (EST)",
+      "val": 1488
+    },
+    {
+      "date": "Thu Jan 19 2017 08:00:00 GMT-0500 (EST)",
+      "val": 1725
+    },
+    {
+      "date": "Thu Jan 19 2017 08:30:00 GMT-0500 (EST)",
+      "val": 2794
+    },
+    {
+      "date": "Thu Jan 19 2017 09:00:00 GMT-0500 (EST)",
+      "val": 3140
+    },
+    {
+      "date": "Thu Jan 19 2017 09:30:00 GMT-0500 (EST)",
+      "val": 4481
+    },
+    {
+      "date": "Thu Jan 19 2017 10:00:00 GMT-0500 (EST)",
+      "val": 4638
+    },
+    {
+      "date": "Thu Jan 19 2017 10:30:00 GMT-0500 (EST)",
+      "val": 5763
+    },
+    {
+      "date": "Thu Jan 19 2017 11:00:00 GMT-0500 (EST)",
+      "val": 5879
+    },
+    {
+      "date": "Thu Jan 19 2017 11:30:00 GMT-0500 (EST)",
+      "val": 6765
+    },
+    {
+      "date": "Thu Jan 19 2017 12:00:00 GMT-0500 (EST)",
+      "val": 7080
+    },
+    {
+      "date": "Thu Jan 19 2017 12:30:00 GMT-0500 (EST)",
+      "val": 7297
+    },
+    {
+      "date": "Thu Jan 19 2017 13:00:00 GMT-0500 (EST)",
+      "val": 7288
+    },
+    {
+      "date": "Thu Jan 19 2017 13:30:00 GMT-0500 (EST)",
+      "val": 7313
+    },
+    {
+      "date": "Thu Jan 19 2017 14:00:00 GMT-0500 (EST)",
+      "val": 7265
+    },
+    {
+      "date": "Thu Jan 19 2017 14:30:00 GMT-0500 (EST)",
+      "val": 7253
+    },
+    {
+      "date": "Thu Jan 19 2017 15:00:00 GMT-0500 (EST)",
+      "val": 7109
+    },
+    {
+      "date": "Thu Jan 19 2017 15:30:00 GMT-0500 (EST)",
+      "val": 7111
+    },
+    {
+      "date": "Thu Jan 19 2017 16:00:00 GMT-0500 (EST)",
+      "val": 6935
+    },
+    {
+      "date": "Thu Jan 19 2017 16:30:00 GMT-0500 (EST)",
+      "val": 6902
+    },
+    {
+      "date": "Thu Jan 19 2017 17:00:00 GMT-0500 (EST)",
+      "val": 5738
+    },
+    {
+      "date": "Thu Jan 19 2017 17:30:00 GMT-0500 (EST)",
+      "val": 5595
+    },
+    {
+      "date": "Thu Jan 19 2017 18:00:00 GMT-0500 (EST)",
+      "val": 4634
+    },
+    {
+      "date": "Thu Jan 19 2017 18:30:00 GMT-0500 (EST)",
+      "val": 4533
+    },
+    {
+      "date": "Thu Jan 19 2017 19:00:00 GMT-0500 (EST)",
+      "val": 3481
+    },
+    {
+      "date": "Thu Jan 19 2017 19:30:00 GMT-0500 (EST)",
+      "val": 3398
+    },
+    {
+      "date": "Thu Jan 19 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2588
+    },
+    {
+      "date": "Thu Jan 19 2017 20:30:00 GMT-0500 (EST)",
+      "val": 2512
+    },
+    {
+      "date": "Thu Jan 19 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1684
+    },
+    {
+      "date": "Thu Jan 19 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1566
+    },
+    {
+      "date": "Thu Jan 19 2017 22:00:00 GMT-0500 (EST)",
+      "val": 675
+    },
+    {
+      "date": "Thu Jan 19 2017 22:30:00 GMT-0500 (EST)",
+      "val": 548
+    },
+    {
+      "date": "Thu Jan 19 2017 23:00:00 GMT-0500 (EST)",
+      "val": 50
+    },
+    {
+      "date": "Thu Jan 19 2017 23:30:00 GMT-0500 (EST)",
+      "val": 5
+    },
+    {
+      "date": "Fri Jan 20 2017 00:00:00 GMT-0500 (EST)",
+      "val": 0
+    },
+    {
+      "date": "Fri Jan 20 2017 00:30:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Fri Jan 20 2017 01:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 01:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 02:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 02:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 03:00:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 03:30:00 GMT-0500 (EST)",
+      "val": 19
+    },
+    {
+      "date": "Fri Jan 20 2017 04:00:00 GMT-0500 (EST)",
+      "val": 20
+    },
+    {
+      "date": "Fri Jan 20 2017 04:30:00 GMT-0500 (EST)",
+      "val": 24
+    },
+    {
+      "date": "Fri Jan 20 2017 05:00:00 GMT-0500 (EST)",
+      "val": 28
+    },
+    {
+      "date": "Fri Jan 20 2017 05:30:00 GMT-0500 (EST)",
+      "val": 109
+    },
+    {
+      "date": "Fri Jan 20 2017 06:00:00 GMT-0500 (EST)",
+      "val": 187
+    },
+    {
+      "date": "Fri Jan 20 2017 06:30:00 GMT-0500 (EST)",
+      "val": 544
+    },
+    {
+      "date": "Fri Jan 20 2017 07:00:00 GMT-0500 (EST)",
+      "val": 666
+    },
+    {
+      "date": "Fri Jan 20 2017 07:30:00 GMT-0500 (EST)",
+      "val": 1466
+    },
+    {
+      "date": "Fri Jan 20 2017 08:00:00 GMT-0500 (EST)",
+      "val": 1711
+    },
+    {
+      "date": "Fri Jan 20 2017 08:30:00 GMT-0500 (EST)",
+      "val": 2798
+    },
+    {
+      "date": "Fri Jan 20 2017 09:00:00 GMT-0500 (EST)",
+      "val": 3141
+    },
+    {
+      "date": "Fri Jan 20 2017 09:30:00 GMT-0500 (EST)",
+      "val": 4508
+    },
+    {
+      "date": "Fri Jan 20 2017 10:00:00 GMT-0500 (EST)",
+      "val": 4667
+    },
+    {
+      "date": "Fri Jan 20 2017 10:30:00 GMT-0500 (EST)",
+      "val": 5787
+    },
+    {
+      "date": "Fri Jan 20 2017 11:00:00 GMT-0500 (EST)",
+      "val": 5911
+    },
+    {
+      "date": "Fri Jan 20 2017 11:30:00 GMT-0500 (EST)",
+      "val": 6706
+    },
+    {
+      "date": "Fri Jan 20 2017 12:00:00 GMT-0500 (EST)",
+      "val": 6947
+    },
+    {
+      "date": "Fri Jan 20 2017 12:30:00 GMT-0500 (EST)",
+      "val": 7118
+    },
+    {
+      "date": "Fri Jan 20 2017 13:00:00 GMT-0500 (EST)",
+      "val": 7083
+    },
+    {
+      "date": "Fri Jan 20 2017 13:30:00 GMT-0500 (EST)",
+      "val": 7091
+    },
+    {
+      "date": "Fri Jan 20 2017 14:00:00 GMT-0500 (EST)",
+      "val": 6997
+    },
+    {
+      "date": "Fri Jan 20 2017 14:30:00 GMT-0500 (EST)",
+      "val": 6986
+    },
+    {
+      "date": "Fri Jan 20 2017 15:00:00 GMT-0500 (EST)",
+      "val": 6856
+    },
+    {
+      "date": "Fri Jan 20 2017 15:30:00 GMT-0500 (EST)",
+      "val": 6845
+    },
+    {
+      "date": "Fri Jan 20 2017 16:00:00 GMT-0500 (EST)",
+      "val": 6620
+    },
+    {
+      "date": "Fri Jan 20 2017 16:30:00 GMT-0500 (EST)",
+      "val": 6573
+    },
+    {
+      "date": "Fri Jan 20 2017 17:00:00 GMT-0500 (EST)",
+      "val": 5315
+    },
+    {
+      "date": "Fri Jan 20 2017 17:30:00 GMT-0500 (EST)",
+      "val": 5166
+    },
+    {
+      "date": "Fri Jan 20 2017 18:00:00 GMT-0500 (EST)",
+      "val": 4154
+    },
+    {
+      "date": "Fri Jan 20 2017 18:30:00 GMT-0500 (EST)",
+      "val": 4054
+    },
+    {
+      "date": "Fri Jan 20 2017 19:00:00 GMT-0500 (EST)",
+      "val": 3140
+    },
+    {
+      "date": "Fri Jan 20 2017 19:30:00 GMT-0500 (EST)",
+      "val": 3066
+    },
+    {
+      "date": "Fri Jan 20 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2364
+    },
+    {
+      "date": "Fri Jan 20 2017 20:30:00 GMT-0500 (EST)",
+      "val": 2305
+    },
+    {
+      "date": "Fri Jan 20 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1542
+    },
+    {
+      "date": "Fri Jan 20 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1468
+    },
+    {
+      "date": "Fri Jan 20 2017 22:00:00 GMT-0500 (EST)",
+      "val": 806
+    },
+    {
+      "date": "Fri Jan 20 2017 22:30:00 GMT-0500 (EST)",
+      "val": 669
+    },
+    {
+      "date": "Fri Jan 20 2017 23:00:00 GMT-0500 (EST)",
+      "val": 63
+    },
+    {
+      "date": "Fri Jan 20 2017 23:30:00 GMT-0500 (EST)",
+      "val": 6
+    },
+    {
+      "date": "Sat Jan 21 2017 00:00:00 GMT-0500 (EST)",
+      "val": 0
+    },
+    {
+      "date": "Sat Jan 21 2017 00:30:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 01:00:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 01:30:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 02:00:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 02:30:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 03:00:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 03:30:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 04:00:00 GMT-0500 (EST)",
+      "val": 15
+    },
+    {
+      "date": "Sat Jan 21 2017 04:30:00 GMT-0500 (EST)",
+      "val": 17
+    },
+    {
+      "date": "Sat Jan 21 2017 05:00:00 GMT-0500 (EST)",
+      "val": 21
+    },
+    {
+      "date": "Sat Jan 21 2017 05:30:00 GMT-0500 (EST)",
+      "val": 54
+    },
+    {
+      "date": "Sat Jan 21 2017 06:00:00 GMT-0500 (EST)",
+      "val": 67
+    },
+    {
+      "date": "Sat Jan 21 2017 06:30:00 GMT-0500 (EST)",
+      "val": 237
+    },
+    {
+      "date": "Sat Jan 21 2017 07:00:00 GMT-0500 (EST)",
+      "val": 276
+    },
+    {
+      "date": "Sat Jan 21 2017 07:30:00 GMT-0500 (EST)",
+      "val": 757
+    },
+    {
+      "date": "Sat Jan 21 2017 08:00:00 GMT-0500 (EST)",
+      "val": 837
+    },
+    {
+      "date": "Sat Jan 21 2017 08:30:00 GMT-0500 (EST)",
+      "val": 1750
+    },
+    {
+      "date": "Sat Jan 21 2017 09:00:00 GMT-0500 (EST)",
+      "val": 1877
+    },
+    {
+      "date": "Sat Jan 21 2017 09:30:00 GMT-0500 (EST)",
+      "val": 3023
+    },
+    {
+      "date": "Sat Jan 21 2017 10:00:00 GMT-0500 (EST)",
+      "val": 3136
+    },
+    {
+      "date": "Sat Jan 21 2017 10:30:00 GMT-0500 (EST)",
+      "val": 4372
+    },
+    {
+      "date": "Sat Jan 21 2017 11:00:00 GMT-0500 (EST)",
+      "val": 4486
+    },
+    {
+      "date": "Sat Jan 21 2017 11:30:00 GMT-0500 (EST)",
+      "val": 5224
+    },
+    {
+      "date": "Sat Jan 21 2017 12:00:00 GMT-0500 (EST)",
+      "val": 5298
+    },
+    {
+      "date": "Sat Jan 21 2017 12:30:00 GMT-0500 (EST)",
+      "val": 5490
+    },
+    {
+      "date": "Sat Jan 21 2017 13:00:00 GMT-0500 (EST)",
+      "val": 5315
+    },
+    {
+      "date": "Sat Jan 21 2017 13:30:00 GMT-0500 (EST)",
+      "val": 5316
+    },
+    {
+      "date": "Sat Jan 21 2017 14:00:00 GMT-0500 (EST)",
+      "val": 5098
+    },
+    {
+      "date": "Sat Jan 21 2017 14:30:00 GMT-0500 (EST)",
+      "val": 5079
+    },
+    {
+      "date": "Sat Jan 21 2017 15:00:00 GMT-0500 (EST)",
+      "val": 4829
+    },
+    {
+      "date": "Sat Jan 21 2017 15:30:00 GMT-0500 (EST)",
+      "val": 4815
+    },
+    {
+      "date": "Sat Jan 21 2017 16:00:00 GMT-0500 (EST)",
+      "val": 4509
+    },
+    {
+      "date": "Sat Jan 21 2017 16:30:00 GMT-0500 (EST)",
+      "val": 4497
+    },
+    {
+      "date": "Sat Jan 21 2017 17:00:00 GMT-0500 (EST)",
+      "val": 3778
+    },
+    {
+      "date": "Sat Jan 21 2017 17:30:00 GMT-0500 (EST)",
+      "val": 3767
+    },
+    {
+      "date": "Sat Jan 21 2017 18:00:00 GMT-0500 (EST)",
+      "val": 3035
+    },
+    {
+      "date": "Sat Jan 21 2017 18:30:00 GMT-0500 (EST)",
+      "val": 2994
+    },
+    {
+      "date": "Sat Jan 21 2017 19:00:00 GMT-0500 (EST)",
+      "val": 2551
+    },
+    {
+      "date": "Sat Jan 21 2017 19:30:00 GMT-0500 (EST)",
+      "val": 2523
+    },
+    {
+      "date": "Sat Jan 21 2017 20:00:00 GMT-0500 (EST)",
+      "val": 2027
+    },
+    {
+      "date": "Sat Jan 21 2017 20:30:00 GMT-0500 (EST)",
+      "val": 1991
+    },
+    {
+      "date": "Sat Jan 21 2017 21:00:00 GMT-0500 (EST)",
+      "val": 1443
+    },
+    {
+      "date": "Sat Jan 21 2017 21:30:00 GMT-0500 (EST)",
+      "val": 1377
+    },
+    {
+      "date": "Sat Jan 21 2017 22:00:00 GMT-0500 (EST)",
+      "val": 791
+    },
+    {
+      "date": "Sat Jan 21 2017 22:30:00 GMT-0500 (EST)",
+      "val": 656
+    },
+    {
+      "date": "Sat Jan 21 2017 23:00:00 GMT-0500 (EST)",
+      "val": 65
+    },
+    {
+      "date": "Sat Jan 21 2017 23:30:00 GMT-0500 (EST)",
+      "val": 6
+    }
+  ]
+}
