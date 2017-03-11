@@ -41,7 +41,7 @@ function start() {
         path = "../";
     }
     else {
-        path = "/";
+        path = "/wereopen/";
     }
 
     d3.json(path + "data/places-hours-neighborhoods.geojson", function (error, points) {
