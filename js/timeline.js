@@ -4,7 +4,7 @@
 
 var neighborhoodNames = [];
 
-d3.json("../data/places-hours-neighborhoods.geojson", function (error, points) {
+d3.json(path + "data/places-hours-neighborhoods.geojson", function (error, points) {
     if (error) throw error;
     points.features.forEach(function (d) {
         var neighborhood = d.properties.neighborhood;
