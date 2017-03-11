@@ -2,6 +2,7 @@
  * Created by Alicia on 11/26/16.
  */
 
+var isLocal = false;
 var w = window.outerWidth;
 var h = window.outerHeight;
 var svg = d3.select(map.getPanes().overlayPane).select("svg");
@@ -11,7 +12,7 @@ var _totalActive = 0;
 var _totals = {};
 var _pause = false;
 var textBox = d3.select("#datestamp").append("svg").attr("width", 125).attr("height", 30).append("text").attr("x", 0).attr("y", 25).text("Monday 00:00");
-
+var path;
 
 // var neighborhoodNames = ["Back Bay", "Downtown", "South End", "North End", "Central Square", "Harvard Square","Kendall Square","Somerville","Porter Square","Jamaica Plain","Brookline"];
 
@@ -36,7 +37,14 @@ function start() {
 
     })
 
-    d3.json("../data/places-hours-neighborhoods.geojson", function (error, points) {
+    if (isLocal) {
+        path = "../";
+    }
+    else {
+        path = ""
+    }
+
+    d3.json(path + "data/places-hours-neighborhoods.geojson", function (error, points) {
         if (error) throw error;
         var g = svg.append("g").attr("class", "leaflet-zoom-hide");
         var pointData = points.features;
