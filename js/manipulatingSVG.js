@@ -10,7 +10,7 @@ var lineChartData = [];
 var _totalActive = 0;
 var _totals = {};
 var _pause = false;
-var textBox = d3.select("#datestamp").append("svg").attr("width", 125).attr("height", 30).append("text").attr("x", 0).attr("y", 25).text("Monday 00:00");
+var textBox = d3.select("#datestamp").append("svg").attr("width", 175).attr("height", 30).append("text").attr("x", 0).attr("y", 25).text("Monday 12:00am");
 
 // var neighborhoodNames = ["Back Bay", "Downtown", "South End", "North End", "Central Square", "Harvard Square","Kendall Square","Somerville","Porter Square","Jamaica Plain","Brookline"];
 
@@ -219,7 +219,7 @@ function start() {
 
 
             if (time < timeStop) {
-                timeOut = setTimeout(update, 1000);
+                timeOut = setTimeout(update, 750);
             }
             else return;
 
@@ -248,7 +248,7 @@ function start() {
                 };
                 var currentDay = date.getDay() - 1;
                 currentDay = weekday[currentDay].toString();
-                var currentHour = addZeroBefore(date.getHours()).toString();
+                var currentHour = date.getHours();
                 var currentMinutes = addZeroBefore(date.getMinutes()).toString();
                 var dateString = date.toString();
                 lineChartData.push({date: dateString, val: _totalActive});
@@ -274,10 +274,25 @@ function start() {
                 //             this.textContent = interpolator( t );
                 //         };
                 //     });
+                var twelveHour = 0;
+                var ampm = "am";
+                if (currentHour == 12) {
+                    twelveHour = 12;
+                    ampm = "pm";
+                }
+                else if (currentHour > 12) {
+                    twelveHour = currentHour - 12;
+                    ampm = "pm";
+                }
+
+                else{
+                    twelveHour = currentHour;
+                    ampm = "am";
+                }
 
                 textBox.transition().duration(500)
                     .text(function () {
-                    return currentDay + " " + currentHour + ":" + currentMinutes
+                    return currentDay + " " + addZeroBefore(twelveHour) + ":" + currentMinutes + ampm;
                 });
                 // datestamp.innerHTML = currentDay + " " + currentHour + ":" + currentMinutes;
                 // datestamp.style.color = "white";
@@ -289,8 +304,8 @@ function start() {
                 $("#pause").toggle();
 
                 clearTimeout(timeOut);
-                _pause == true;
-                d3.selectAll("path").transition();
+                _pause = true;
+                d3.selectAll(".line").transition();
                 console.log("stop");
             });
 
