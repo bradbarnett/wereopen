@@ -1,39 +1,100 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <script>
-        (function (i, s, o, g, r, a, m) {
-            i['GoogleAnalyticsObject'] = r;
-            i[r] = i[r] || function () {
-                        (i[r].q = i[r].q || []).push(arguments)
-                    }, i[r].l = 1 * new Date();
-            a = s.createElement(o),
-                    m = s.getElementsByTagName(o)[0];
-            a.async = 1;
-            a.src = g;
-            m.parentNode.insertBefore(a, m)
-        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    <!--<script>-->
+        <!--(function (i, s, o, g, r, a, m) {-->
+            <!--i['GoogleAnalyticsObject'] = r;-->
+            <!--i[r] = i[r] || function () {-->
+                        <!--(i[r].q = i[r].q || []).push(arguments)-->
+                    <!--}, i[r].l = 1 * new Date();-->
+            <!--a = s.createElement(o),-->
+                    <!--m = s.getElementsByTagName(o)[0];-->
+            <!--a.async = 1;-->
+            <!--a.src = g;-->
+            <!--m.parentNode.insertBefore(a, m)-->
+        <!--})(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');-->
 
-        ga('create', 'UA-67190694-1', 'auto');
-        ga('send', 'pageview');
+        <!--ga('create', 'UA-67190694-1', 'auto');-->
+        <!--ga('send', 'pageview');-->
 
-    </script>
+    <!--</script>-->
     <meta charset="utf-8"/>
     <link rel="stylesheet" href="css/style.css"/>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
-    <link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/jquery.js"></script>
+    <!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>-->
+    <!--<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>-->
+    <!--<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>-->
 </head>
 
 <body>
-<div id="line-chart"></div>
+<div id="neighborhood-names">
+    <form>
+
+                <label>Compare</label>
+                <select id="first-neighborhood" class="neighborhood-names-dropdown">
+                    <option selected disabled hidden style='display: none' value=''></option>
+
+                </select>
+    </form>
+    <form>
+
+        <label>to </label>
+        <select id="second-neighborhood" class="neighborhood-names-dropdown">
+            <option selected disabled hidden style='display: none' value=''></option>
+
+        </select>
+    </form>
+
+</div>
+<div id="line-chart-container">
+    <div id="week-controls">
+        <a href="#" id="start">Start</a>
+        <a href="#" id="stop">Stop</a>
+    </div>
+    <div id="week-selector" class="selector">
+        <form class="day-selector">
+            <div class="mx-button">
+                <input type="radio" name="mx" id="1" value="Monday" checked="true">
+                <label unselectable for="1">Monday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="2" value="Tuesday">
+                <label unselectable for="2">Tuesday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="3" value="Wednesday">
+                <label unselectable for="3">Wednesday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="4" value="Thursday">
+                <label unselectable for="4">Thursday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="5" value="Friday">
+                <label unselectable for="5">Friday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="6" value="Saturday">
+                <label unselectable for="6">Saturday</label>
+            </div>
+            <div class="mx-button">
+                <input type="radio" name="mx" id="7" value="Sunday">
+                <label unselectable for="7">Sunday</label>
+            </div>
+        </form>
+    </div>
+    <div id="line-charts"></div>
+</div>
 
 
 <!--<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.4"></script>-->
-<!--</script><script src="js/d3/d3.min.js"></script>-->
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="js/d3js/d3.min.js"></script>
+    <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
+<script src="js/deploy-settings.js"></script>
 <!--<script type="text/javascript" src="js/convertTimes.js"></script>-->
 <!--<script type="text/javascript" src="js/reduceFileSize.js"></script>-->
-<script type="text/javascript" src="js/timeline.js"></script>
+<!--<script type="text/javascript" src="js/createTimestamp.js"></script>-->
+<script type="text/javascript" src="js/linechartsPercent.js"></script>
+<!--<script type="text/javascript" src="js/createMean.js"></script>-->
 </body>
 </html>

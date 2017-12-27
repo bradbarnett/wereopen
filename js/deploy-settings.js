@@ -2,7 +2,7 @@
  * Created by Alicia on 3/11/17.
  */
 
-var isLocal = false;
+var isLocal = true;
 var path;
 
 if (isLocal) {

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+            a = s.createElement(o),
+                    m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-67190694-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+    <meta charset="utf-8"/>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no'/>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/odometer.css"/>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+    <!--<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.2/dist/leaflet.css"/>-->
+    <!--<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>-->
+    <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+    <style>
+        body {
+            margin: 0;
+            position: fixed;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+        }
+
+        #map {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+
+        canvas {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+        }
+
+        .radius {
+            fill-opacity: 0.1;
+            stroke: #111;
+            stroke-dasharray: 4 2;
+        }
+
+        .highlight {
+            fill: #fe568e;
+        }
+    </style>
+</head>
+
+<body>
+<!--<div class="nav-bar">-->
+
+    <!--<div id="datestamp-container" class="container preanimation">-->
+       <!---->
+    <!--</div>-->
+<!--</div>-->
+<!--<button id="change-size">Start!</button>-->
+<div id="datestamp">
+    <span class="time-span" id="day">Monday</span>
+    <span class="" id="hour">05</span>
+    <span class="time-span" id="colon">: </span>
+    <span id="thirty" class="minute">30</span>
+    <span id="zero" class="minute">00</span>
+    <span class="time-span" id="ampm">am</span>
+</div>
+<!--<div id="percent-open"><div id="percent-number"></div>Percent of Businesses Open</div>-->
+<div id="flyTo">Fly</div>
+<div id="map"></div>
+
+
+<!--<div id="vis-container">-->
+<!--<div class="fixed">-->
+<!--<nav class="top-bar" data-topbar role="navigation">-->
+<!--<div id="title">We're Open: Boston</div>-->
+<!--<div id="controls">-->
+<!--<div id="controls-time">-->
+<!--<svg class="control start" version="1.1" id="play" replay="false" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"-->
+<!--viewBox="0 0 232.153 232.153" style="enable-background:new 0 0 232.153 232.153;" xml:space="preserve">-->
+<!--<g id="Play">-->
+<!--<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M203.791,99.628L49.307,2.294c-4.567-2.719-10.238-2.266-14.521-2.266-->
+<!--c-17.132,0-17.056,13.227-17.056,16.578v198.94c0,2.833-0.075,16.579,17.056,16.579c4.283,0,9.955,0.451,14.521-2.267-->
+<!--l154.483-97.333c12.68-7.545,10.489-16.449,10.489-16.449S216.471,107.172,203.791,99.628z"/>-->
+<!--</g>-->
+<!--</svg>-->
+
+<!--<svg class="control" version="1.1" id="pause" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 232.679 232.679" style="enable-background:new 0 0 232.679 232.679;" xml:space="preserve">-->
+<!--<g id="Pause">-->
+<!--<path style="fill-rule:evenodd;clip-rule:evenodd;" d="M80.543,0H35.797c-9.885,0-17.898,8.014-17.898,17.898v196.883-->
+<!--c0,9.885,8.013,17.898,17.898,17.898h44.746c9.885,0,17.898-8.013,17.898-17.898V17.898C98.44,8.014,90.427,0,80.543,0z M196.882,0-->
+<!--h-44.746c-9.886,0-17.899,8.014-17.899,17.898v196.883c0,9.885,8.013,17.898,17.899,17.898h44.746-->
+<!--c9.885,0,17.898-8.013,17.898-17.898V17.898C214.781,8.014,206.767,0,196.882,0z"/>-->
+<!--</g>-->
+<!--</svg>-->
+
+<!--<svg class="control" version="1.1" id="replay" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px"-->
+<!--viewBox="0 0 28.265 28.265" style="enable-background:new 0 0 28.265 28.265;" xml:space="preserve">-->
+<!--<g>-->
+<!--<path d="M14.133,28.265c-7.061,0-12.805-5.75-12.805-12.809c0-7.06,5.744-12.807,12.805-12.807c0.469,0,0.943,0.027,1.414,0.08-->
+<!--v-2.07c0-0.266,0.164-0.508,0.406-0.611c0.252-0.098,0.531-0.043,0.723,0.148l4.537,4.547c0.258,0.258,0.258,0.67,0,0.932-->
+<!--l-4.535,4.557c-0.193,0.188-0.473,0.246-0.725,0.143c-0.242-0.104-0.406-0.344-0.406-0.609V7.47-->
+<!--c-0.469-0.086-0.941-0.125-1.414-0.125c-4.473,0-8.113,3.639-8.113,8.111c0,4.471,3.641,8.113,8.113,8.113s8.111-3.643,8.111-8.113-->
+<!--c0-0.363,0.295-0.66,0.662-0.66h3.369c0.365,0,0.662,0.297,0.662,0.66C26.937,22.515,21.189,28.265,14.133,28.265z"/>-->
+<!--</g>-->
+<!--</svg>-->
+<!--</div>-->
+<!--&lt;!&ndash;<div id="lu-colors">&ndash;&gt;-->
+<!--&lt;!&ndash;<div class="switch tiny round">&ndash;&gt;-->
+<!--&lt;!&ndash;<span id="lu-text">show land use</span>&ndash;&gt;-->
+<!--&lt;!&ndash;<input id="exampleCheckboxSwitch" type="checkbox">&ndash;&gt;-->
+<!--&lt;!&ndash;<label for="exampleCheckboxSwitch"></label>&ndash;&gt;-->
+<!--&lt;!&ndash;<div id="lu-legend">&ndash;&gt;-->
+<!--&lt;!&ndash;<span class="legend-label">commercial/mixed use</span>&ndash;&gt;-->
+<!--&lt;!&ndash;<div id="red" class="legend-box"></div>&ndash;&gt;-->
+<!--&lt;!&ndash;<span class="legend-label">single family house </span>&ndash;&gt;-->
+<!--&lt;!&ndash;<div id="yellow" class="legend-box"></div>&ndash;&gt;-->
+<!--&lt;!&ndash;<span class="legend-label">apartments</span>&ndash;&gt;-->
+<!--&lt;!&ndash;<div id="orange" class="legend-box"></div>&ndash;&gt;-->
+<!--&lt;!&ndash;<span class="legend-label">institutional</span>&ndash;&gt;-->
+<!--&lt;!&ndash;<div id="blue" class="legend-box"></div>&ndash;&gt;-->
+<!--&lt;!&ndash;</div>&ndash;&gt;-->
+<!--&lt;!&ndash;</div>&ndash;&gt;-->
+<!--&lt;!&ndash;</div>&ndash;&gt;-->
+<!--<div id="datestamp-container" class="container preanimation">-->
+<!--<div id="datestamp"></div>-->
+<!--</div>-->
+<!--</div>-->
+
+<!--</nav>-->
+<!--</div>-->
+<!--<div id="map-container">-->
+<!--<div id="map"></div>-->
+<!--<div id="line-chart">-->
+<!--<div id="total">-->
+<!--&lt;!&ndash;<div class="section-title">Open Businesses</div>&ndash;&gt;-->
+<!--</div>-->
+<!--<div id="legend"></div>-->
+<!--</div>-->
+<!--</div>-->
+<!--</div>-->
+<!--<script type="text/javascript" src="https://maps.stamen.com/js/tile.stamen.js?v1.2.4"></script>-->
+<!--<script src="/wereopen/js/leaflet/leaflet.js"></script>-->
+<script src='https://api.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v0.38.0/mapbox-gl.css' rel='stylesheet'/>
+<!--<script src="../js/leaflet/leaflet.js"></script>-->
+<!--<script type="text/javascript" src="https://maps.stamen.com/js/tile.stamen.js?v1.2.4"></script>-->
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script src="js/odometer/odometer.min.js"></script>
+<script type="text/javascript" src="js/deploy-settings.js"></script>
+<script type="text/javascript" src="js/canvas-map.js"></script>
+</body>
+</html>
